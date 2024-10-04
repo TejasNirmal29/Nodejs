@@ -1,0 +1,1 @@
+module.exports = `mongodb+srv://Tejas:aViT7FysXA1n0kZ7@tejas.xffas.mongodb.net/`
